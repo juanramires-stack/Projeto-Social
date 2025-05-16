@@ -53,6 +53,7 @@ main{
     border-radius: 50%;
     box-shadow: 2px 2px 5px black;
     box-sizing: border-box;
+    background-attachment: scroll;
 }
 
 #redes-sociais img:hover{
